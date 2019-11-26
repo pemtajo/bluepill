@@ -94,7 +94,7 @@ A full list supported options are listed here.
 
 ## Requirements
 
-Bluepill only works with **Xcode 10.2**. If you're looking for old Xcode support, please check out the other branches:
+Bluepill only works with **Xcode 11.2**. If you're looking for old Xcode support, please check out the other branches:
 
 * [Xcode-8](https://github.com/linkedin/bluepill/tree/xcode8)
 * [Xcode-9.0](https://github.com/linkedin/bluepill/tree/xcode-9.0)
@@ -104,6 +104,10 @@ Bluepill only works with **Xcode 10.2**. If you're looking for old Xcode support
 * [Xcode-9.4](https://github.com/linkedin/bluepill/tree/xcode-9.4)
 * [Xcode-10.0](https://github.com/linkedin/bluepill/tree/xcode-10.0)
 * [Xcode-10.1](https://github.com/linkedin/bluepill/tree/xcode-10.1)
+* [Xcode-10.2](https://github.com/linkedin/bluepill/tree/xcode-10.2)
+* [Xcode-10.3](https://github.com/linkedin/bluepill/tree/xcode-10.3)
+* [Xcode-11.0](https://github.com/linkedin/bluepill/tree/xcode-11.0)
+* [Xcode-11.1](https://github.com/linkedin/bluepill/tree/xcode-11.1)
 
 ## Acknowledgement
 
@@ -132,7 +136,7 @@ If you're using [Bitrise.io](https://bitrise.io) as your CI/CD, you can start us
 
 - Easiest way to get Bluepill binary?
 
-  Latest [release](https://github.com/linkedin/bluepill/releases/). 
+  Latest [release](https://github.com/linkedin/bluepill/releases/).
 
 - How to test Bluepill in Xcode
 
